@@ -7,7 +7,6 @@
 				</div>
 				<div class="form_fields">
 					<form action="assets/pages/source.php" method="post" accept-charset="utf-8">
-
 						<div class="form-group">
 							<label for="">Full name</label>
 							<input type="text" name="fullName" class="form-control" placeholder="Full Name ">
@@ -31,20 +30,8 @@
 							<label for="exampleCheck1" class="form-check-label">Check me out.</label>
 						</div>
 						<button type="submit" name="submit" class="btn btn-primary">SignUp</button>
-
 					</form>
 				</div>
 			</div>
-			
-		
 	</div>
 </div>
-
-
-
-
-
-
-
-
-
